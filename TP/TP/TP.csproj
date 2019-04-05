@@ -46,25 +46,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListaObj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaObj.Designer.cs">
+      <DependentUpon>ListaObj.cs</DependentUpon>
+    </Compile>
     <Compile Include="TP1WinFormAPP.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TP1WinFormAPP.Designer.cs">
       <DependentUpon>TP1WinFormAPP.cs</DependentUpon>
     </Compile>
-    <Compile Include="ListarPersonas.cs">
+    <Compile Include="Lista de Personas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ListarPersonas.Designer.cs">
-      <DependentUpon>ListarPersonas.cs</DependentUpon>
+    <Compile Include="Lista de Personas.Designer.cs">
+      <DependentUpon>Lista de Personas.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ListaObj.resx">
+      <DependentUpon>ListaObj.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TP1WinFormAPP.resx">
       <DependentUpon>TP1WinFormAPP.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ListarPersonas.resx">
-      <DependentUpon>ListarPersonas.cs</DependentUpon>
+    <EmbeddedResource Include="Lista de Personas.resx">
+      <DependentUpon>Lista de Personas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

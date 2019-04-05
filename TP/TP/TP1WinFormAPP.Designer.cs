@@ -68,6 +68,7 @@
             this.objetosToolStripMenuItem.Name = "objetosToolStripMenuItem";
             this.objetosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.objetosToolStripMenuItem.Text = "Lista Objetos";
+            this.objetosToolStripMenuItem.Click += new System.EventHandler(this.objetosToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem1
             // 

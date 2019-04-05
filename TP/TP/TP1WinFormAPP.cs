@@ -19,7 +19,7 @@ namespace TP
 
         private void personasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ListarPersonas personas = new ListarPersonas();
+            ListadePersonas personas = new ListadePersonas();
             bool abierto = false;
             foreach (Form f in Application.OpenForms)
             {
@@ -45,6 +45,12 @@ namespace TP
             {
                 Application.Exit();
             }
+        }
+
+        private void objetosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           ListaObj objetos = new ListaObj();
+           objetos.ShowDialog();
         }
     }
 }

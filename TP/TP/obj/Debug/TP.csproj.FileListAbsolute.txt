@@ -19,10 +19,11 @@ C:\Users\alfon\Desktop\TP\TP\bin\Debug\Clases.dll
 C:\Users\alfon\Desktop\TP\TP\bin\Debug\Clases.pdb
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.csprojAssemblyReference.cache
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.TP1WinFormAPP.resources
-C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.ListarPersonas.resources
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.Properties.Resources.resources
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.csproj.CopyComplete
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.exe
 C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.pdb
+C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.ListadePersonas.resources
+C:\Users\alfon\Desktop\TP\TP\obj\Debug\TP.ListaObj.resources
